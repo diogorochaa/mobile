@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "base-react-native-expo",
+    "slug": "base-react-native-expo",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"],
+    "plugins": ["@react-native-firebase/app"],
+    "android": {
+      "package": "com.diogorocha10.basereactnativeexpo",
+      "googleServicesFile": "./google-services.json"
+    },
+    "ios": {
+      "bundleIdentifier": "com.diogorocha10.basereactnativeexpo",
+      "googleServicesFile": "./GoogleService-Info.plist"
+    }
+  }
+}

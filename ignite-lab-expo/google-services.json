@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "483684699794",
+    "project_id": "base-native-ad558",
+    "storage_bucket": "base-native-ad558.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483684699794:android:704b07858ea16acf70604b",
+        "android_client_info": {
+          "package_name": "com.diogorocha10.basereactnativeexpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483684699794-ir64q2mbha7ngpupe9mcttcv48l6ijtn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2ZBCCyEQHR4SYkAPSPrq2qsI10QXDrbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483684699794-ir64q2mbha7ngpupe9mcttcv48l6ijtn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "483684699794-vh4lo1dts29cnk40rh2ejtevp0o5busv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.diogorocha10.basereactnativeexpo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
